@@ -1,3 +1,14 @@
+This is a task of Company WedMePlz.
+
+Under the `src` folder, There are Folder named...
+
+* Components - Which consists of all the components that are used.
+
+* Styles - Which consists of all the stylesheets for designing.
+
+* reducers - Which I used for state management using Redux.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
