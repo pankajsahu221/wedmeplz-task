@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pankajsahu221/wedmeplz-task/static/css/main.207800a9.chunk.css",
+    "main.js": "/pankajsahu221/wedmeplz-task/static/js/main.b1f72be1.chunk.js",
+    "main.js.map": "/pankajsahu221/wedmeplz-task/static/js/main.b1f72be1.chunk.js.map",
+    "runtime-main.js": "/pankajsahu221/wedmeplz-task/static/js/runtime-main.faf90ce0.js",
+    "runtime-main.js.map": "/pankajsahu221/wedmeplz-task/static/js/runtime-main.faf90ce0.js.map",
+    "static/js/2.31d5abeb.chunk.js": "/pankajsahu221/wedmeplz-task/static/js/2.31d5abeb.chunk.js",
+    "static/js/2.31d5abeb.chunk.js.map": "/pankajsahu221/wedmeplz-task/static/js/2.31d5abeb.chunk.js.map",
+    "index.html": "/pankajsahu221/wedmeplz-task/index.html",
+    "precache-manifest.f94cd73dd55cbe629cfb195cf9243243.js": "/pankajsahu221/wedmeplz-task/precache-manifest.f94cd73dd55cbe629cfb195cf9243243.js",
+    "service-worker.js": "/pankajsahu221/wedmeplz-task/service-worker.js",
+    "static/css/main.207800a9.chunk.css.map": "/pankajsahu221/wedmeplz-task/static/css/main.207800a9.chunk.css.map",
+    "static/js/2.31d5abeb.chunk.js.LICENSE.txt": "/pankajsahu221/wedmeplz-task/static/js/2.31d5abeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faf90ce0.js",
+    "static/js/2.31d5abeb.chunk.js",
+    "static/css/main.207800a9.chunk.css",
+    "static/js/main.b1f72be1.chunk.js"
+  ]
+}
